@@ -54,9 +54,9 @@ Conhecer fundamentos é essencial para qualquer desenvolvedor. Os fundamentos s�
 
 ### Módulos - Tópicos:
 
-01. Linguagens e Compiladores
-02. C# (C Sharp)
-03. Frameworks
+01. Linguagens e Compiladores :white_check_mark:
+02. C# (C Sharp) :white_check_mark:
+03. Frameworks :white_check_mark:
 04. .NET (DotNet)
 05. Linguagem de Programação com C#
 06. Mão na massa: Criando uma calculadora
@@ -77,10 +77,10 @@ Conhecer fundamentos é essencial para qualquer desenvolvedor. Os fundamentos s�
 ``` link: ```  <https://github.com/eduardodsr/fundamentos-csharp>
 
 
-## Código Fonte (Replit.com):
+## Código Fonte:
 
 
-``` link: ```  https://replit.com/@eduardodsr/undamentos-csharp
+``` link: ```  https://replit.com/@eduardodsr/fundamentos-csharp
 
 ### CONTATO:
 
