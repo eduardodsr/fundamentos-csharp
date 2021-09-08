@@ -7,8 +7,20 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/fundamentos-csharp)
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/fundamentos-csharp)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.fundamentos-csharp)
+
+<p align="left"> |&nbsp;&nbsp;&nbsp; 
+  <a href="#objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#conteudo">Conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#modulos">Módulos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#links"> Links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#dev"> Dev</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
  
 ## :cloud:  BALTA.IO - Curso 2801 - Fundamentos do C#  :cloud:
+
+<span id="objetivo">
 
 ### Objetivo:   🎯
 
@@ -18,7 +30,8 @@ Comece da forma correta, aprendendo os fundamentos que serão necessários para 
 
 Conhecer fundamentos é essencial para qualquer desenvolvedor. Os fundamentos são os conceitos que servem como um alicerce, e permitirão que você aprenda novas tecnologias com mais facilidade, já que os conceitos fundamentais são compartilhados entre tecnologias diferentes.
 
-
+<span id="conteudo">
+ 
 ### Conteúdo:
 
 *   Aprender todos os conceitos fundamentais da linguagem C#
@@ -37,12 +50,14 @@ Conhecer fundamentos é essencial para qualquer desenvolvedor. Os fundamentos s�
 *   Entender e começar a trabalhar com exceções (Exceptions)
 *   Aprender a criar aplicações Console com C#
 
-
+<span id="tecnologias">
+ 
 ### Tecnologias e versões utilizadas:
 
 *   .NET Core 3.1 LTS
 *   Visual Studio Code (Versão mais recente disponível)
 
+<span id="projetos">
 
 ### Projetos do curso:
 
@@ -51,6 +66,7 @@ Conhecer fundamentos é essencial para qualquer desenvolvedor. Os fundamentos s�
 *   Editor de textos em Console para praticar controle de fluxo, ler e gravar arquivos e processar inputs do teclado.
 *   Editor de HTML em Console para praticar estruturas de repetição, e realizar um parsing/processamento básico de strings.
 
+<span id="modulos">
 
 ### Módulos - Tópicos:
 
@@ -69,22 +85,20 @@ Conhecer fundamentos é essencial para qualquer desenvolvedor. Os fundamentos s�
 13. Arrays
 14. Exceptions
 
-
+<span id="#links"> 
+  
 ### Links:
 
 ``` link: ```  <https://balta.io/player/assistir/5ef614da-366d-6156-d049-694800000000>
 
 ``` link: ```  <https://github.com/eduardodsr/fundamentos-csharp>
 
+<span id="dev"> 
+ 
+### Dev:
+ 
+![Apple](https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white)
 
-## Código Fonte:
-
-
-``` link: ```  https://replit.com/@eduardodsr/fundamentos-csharp
-
-### CONTATO:
-
-EDUARDO D. S. R.
-eduardodsr@gmail.com
-
-### End
+``` nome: ``` EDUARDO D. S. R.
+ 
+``` e-mail: ``` <eduardodsr@gmail.com> 
