@@ -14,7 +14,7 @@
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#modulos">Módulos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#links"> Links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#link"> Link</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#dev"> Dev</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
  
@@ -85,13 +85,11 @@ Conhecer fundamentos é essencial para qualquer desenvolvedor. Os fundamentos s�
 13. Arrays
 14. Exceptions
 
-<span id="#links"> 
+<span id="#link"> 
   
-### Links:
+### Link:
 
-``` link: ```  <https://balta.io/player/assistir/5ef614da-366d-6156-d049-694800000000>
-
-``` link: ```  <https://github.com/eduardodsr/fundamentos-csharp>
+``` link código fonte: ```  <https://github.com/eduardodsr/fundamentos-csharp>
 
 <span id="dev"> 
  
