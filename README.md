@@ -69,11 +69,33 @@ Conhecer fundamentos é essencial para qualquer desenvolvedor. Os fundamentos s�
 <span id="modulos">
 
 ### Módulos - Tópicos:
+   
+<br>
+
+Tópicos   | Concluído
+--------- | ------
+M01. Linguagens e Compiladores | 100 %
+M02. C# (C Sharp) | 100 %
+M03. Frameworks  | 100 %
+M04. .NET (DotNet) | 100 %
+M05. Ling. de Programação com C# | 50 %
+M06. Criando uma calculadora | 0 %
+M07. Cronômetro  | 0 %
+M08. Editor de Textos | 0 %
+M09. Strings | 0 %
+M10. Mão na massa: Editor HTML | 0 %
+M11. Datas | 0 %
+M12. Moedas | 0 %
+M13. Arrays | 0 %
+M14. Exceptions | 0 % 
+Total Geral | 22 %
+
+<br>
 
 01. Linguagens e Compiladores :white_check_mark:
 02. C# (C Sharp) :white_check_mark:
 03. Frameworks :white_check_mark:
-04. .NET (DotNet)
+04. .NET (DotNet) :white_check_mark:
 05. Linguagem de Programação com C#
 06. Mão na massa: Criando uma calculadora
 07. Mão na massa: Cronômetro
