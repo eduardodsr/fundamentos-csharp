@@ -12,8 +12,8 @@
   <a href="#objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#conteudo">Conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#modulos">Módulos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#topicos">Tópicos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#link">Link</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#dev">Desenvolvedor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
@@ -68,11 +68,9 @@ Conhecer fundamentos é essencial para qualquer desenvolvedor. Os fundamentos s�
 
 <span id="modulos">
 
-### Módulos - Tópicos:
-   
-<br>
+### Módulos Concluídos (Tabela):
 
-Tópicos   | Concluído
+Módulos   | Concluído (%)
 --------- | ------
 M01. Linguagens e Compiladores | 100 %
 M02. C# (C Sharp) | 100 %
@@ -90,7 +88,9 @@ M13. Arrays | 0 %
 M14. Exceptions | 0 % 
 Total Geral | 22 %
 
-<br>
+<span id="topicos">
+  
+### Tópicos (Check):
 
 01. Linguagens e Compiladores :white_check_mark:
 02. C# (C Sharp) :white_check_mark:
