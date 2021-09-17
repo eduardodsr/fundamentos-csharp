@@ -334,3 +334,28 @@ Curso 2801 - Fundamentos do C#.
 
 - Método Principal 
 `static void Main(string[] args) { ... }`
+
+```csharp
+namespace  MeuApp
+{
+	class  Program
+	{
+		static void Main(string[] args)
+		{
+			Console.WriteLine("Hello World");
+		}
+	}
+}
+```
+
+**Neste módulo aprendemos**
+- Console, Variáveis, Constantes
+- Tipos de dados
+- Conversão de Dados
+- Operadores (Aritméticos, Atribuição, Comparação e Lógicos)
+- Estruturas Condicionais (If e Sqitch)
+- Laços de Repetição (For, While e Do/While)
+- Funções e Métodos
+- Tipos de Referência e Tipos de Valor
+- Estruturas
+- Enumeradores
