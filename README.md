@@ -77,7 +77,7 @@ M02. C# (C Sharp) | 100 %
 M03. Frameworks  | 100 %
 M04. .NET (DotNet) | 100 %
 M05. Ling. de Programação com C# | 100 %
-M06. Criando uma calculadora | 0 %
+M06. Criando uma calculadora | 100 %
 M07. Cronômetro  | 0 %
 M08. Editor de Textos | 0 %
 M09. Strings | 0 %
@@ -96,8 +96,8 @@ Total Geral | 50 %
 02. C# (C Sharp) :white_check_mark:
 03. Frameworks :white_check_mark:
 04. .NET (DotNet) :white_check_mark:
-05. Linguagem de Programação com C#
-06. Mão na massa: Criando uma calculadora
+05. Linguagem de Programação com C# :white_check_mark:
+06. Mão na massa: Criando uma calculadora :white_check_mark:
 07. Mão na massa: Cronômetro
 08. Mão na massa: Editor de Textos
 09. Strings
