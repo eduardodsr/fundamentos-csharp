@@ -76,7 +76,7 @@ M01. Linguagens e Compiladores | 100 %
 M02. C# (C Sharp) | 100 %
 M03. Frameworks  | 100 %
 M04. .NET (DotNet) | 100 %
-M05. Ling. de Programação com C# | 50 %
+M05. Ling. de Programação com C# | 100 %
 M06. Criando uma calculadora | 0 %
 M07. Cronômetro  | 0 %
 M08. Editor de Textos | 0 %
@@ -86,7 +86,7 @@ M11. Datas | 0 %
 M12. Moedas | 0 %
 M13. Arrays | 0 %
 M14. Exceptions | 0 % 
-Total Geral | 22 %
+Total Geral | 50 %
 
 <span id="topicos">
   
