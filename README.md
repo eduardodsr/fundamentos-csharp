@@ -79,14 +79,14 @@ M04. .NET (DotNet) | 100 %
 M05. Ling. de Programação com C# | 100 %
 M06. Criando uma calculadora | 100 %
 M07. Cronômetro  | 100 %
-M08. Editor de Textos | 0 %
+M08. Editor de Textos | 100 %
 M09. Strings | 0 %
 M10. Mão na massa: Editor HTML | 0 %
 M11. Datas | 0 %
 M12. Moedas | 0 %
 M13. Arrays | 0 %
 M14. Exceptions | 0 % 
-Total Geral | 50 %
+Total Geral | 70 %
 
 <span id="topicos">
   
@@ -99,7 +99,7 @@ Total Geral | 50 %
 05. Linguagem de Programação com C# :white_check_mark:
 06. Mão na massa: Criando uma calculadora :white_check_mark:
 07. Mão na massa: Cronômetro :white_check_mark:
-08. Mão na massa: Editor de Textos
+08. Mão na massa: Editor de Textos :white_check_mark:
 09. Strings
 10. Mão na massa: Editor HTML
 11. Datas
