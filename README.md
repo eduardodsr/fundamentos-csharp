@@ -17,6 +17,10 @@
   <a href="#link">Link</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#dev">Desenvolvedor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
+
+
+
+ <p align="center"><img src=https://i.imgur.com/YrFoxHv.png??raw=true" width="360px"/></p>
  
 ## :cloud:  BALTA.IO - Curso 2801 - Fundamentos do C#  :cloud:
 
@@ -120,5 +124,9 @@ Total Geral | 70 %
 ![Apple](https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 ``` nome: ``` EDUARDO D. S. R.
+  
+  ### Junior C# Developer 
+  
+- [@eduardodsr](https://www.github.com/eduardodsr)
  
 ``` e-mail: ``` <eduardodsr@gmail.com> 
