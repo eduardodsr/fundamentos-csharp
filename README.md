@@ -84,13 +84,13 @@ M05. Ling. de Programação com C# | 100 %
 M06. Criando uma calculadora | 100 %
 M07. Cronômetro  | 100 %
 M08. Editor de Textos | 100 %
-M09. Strings | 0 %
+M09. Strings | In Progress
 M10. Mão na massa: Editor HTML | 0 %
 M11. Datas | 0 %
 M12. Moedas | 0 %
 M13. Arrays | 0 %
 M14. Exceptions | 0 % 
-Total Geral | 70 %
+Total Geral | 75 %
 
 <span id="topicos">
   
@@ -125,8 +125,6 @@ Total Geral | 70 %
 
 ``` nome: ``` EDUARDO D. S. R.
   
-  ### Junior C# Developer 
-  
-- [@eduardodsr](https://www.github.com/eduardodsr)
+  ``` link: ``` [@eduardodsr](https://www.github.com/eduardodsr)
  
 ``` e-mail: ``` <eduardodsr@gmail.com> 
