@@ -84,7 +84,7 @@ M05. Ling. de Programação com C# | 100 %
 M06. Criando uma calculadora | 100 %
 M07. Cronômetro  | 100 %
 M08. Editor de Textos | 100 %
-M09. Strings | In Progress
+M09. Strings | 100 %
 M10. Mão na massa: Editor HTML | 0 %
 M11. Datas | 0 %
 M12. Moedas | 0 %
