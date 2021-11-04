@@ -104,7 +104,7 @@ Total Geral | 75 %
 06. Mão na massa: Criando uma calculadora :white_check_mark:
 07. Mão na massa: Cronômetro :white_check_mark:
 08. Mão na massa: Editor de Textos :white_check_mark:
-09. Strings
+09. Strings :white_check_mark:
 10. Mão na massa: Editor HTML
 11. Datas
 12. Moedas
