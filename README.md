@@ -85,7 +85,7 @@ M06. Criando uma calculadora | 100 %
 M07. Cronômetro  | 100 %
 M08. Editor de Textos | 100 %
 M09. Strings | 100 %
-M10. Mão na massa: Editor HTML | 0 %
+M10. Mão na massa: Editor HTML | 100 %
 M11. Datas | 0 %
 M12. Moedas | 0 %
 M13. Arrays | 0 %
@@ -105,7 +105,7 @@ Total Geral | 75 %
 07. Mão na massa: Cronômetro :white_check_mark:
 08. Mão na massa: Editor de Textos :white_check_mark:
 09. Strings :white_check_mark:
-10. Mão na massa: Editor HTML
+10. Mão na massa: Editor HTML :white_check_mark:
 11. Datas
 12. Moedas
 13. Arrays
