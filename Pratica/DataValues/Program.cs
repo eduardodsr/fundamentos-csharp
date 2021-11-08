@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DateSample // Note: actual namespace depends on the project name.
+namespace DateValues // Note: actual namespace depends on the project name.
 {
     public class Program
     {
@@ -31,11 +31,29 @@ namespace DateSample // Note: actual namespace depends on the project name.
             Console.WriteLine("Data + 1 s: " + data.AddSeconds(1));         //  adiciona 1 segundo
             Console.WriteLine("\n=================================");
             
+
+            // Exemplo de data nula (vazia)
+            DateTime? dataNula = null;
+            Console.WriteLine("\nData nula: " + dataNula);
+            
+            
+                       
             // Comparando datas
+
+            var dataComparacao = DateTime.Now;
+
 
             Console.WriteLine("\nComparando datas: ");
 
-            
+            if (dataComparacao.Date == DateTime.Now.Date)
+            {
+                Console.WriteLine("\nData comparação é igual a data atual.");
+            }
+            else
+            {
+                Console.WriteLine("\nData comparação é diferente da data atual.");
+            }
+                       
         }
     }
 }
