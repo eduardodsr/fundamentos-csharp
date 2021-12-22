@@ -47,6 +47,16 @@ namespace DateTimezone // Note: actual namespace depends on the project name.
 
             var timeZone = TimeZoneInfo.FindSystemTimeZoneById("E. South America Standard Time");
             Console.WriteLine("\nTimezone Brazil: " + timeZone.DisplayName);
+
+            // timeZone World
+            var timezones = TimeZoneInfo.GetSystemTimeZones();
+            foreach (var timezone in timezones)
+            {
+                Console.WriteLine(timezone.Id);
+                Console.WriteLine(timezone);
+                Console.WriteLine(TimeZoneInfo.ConvertTime(DateTime.UtcNow, timezone));
+                Console.WriteLine("==============================");
+            }
        
         }
     }

@@ -24,12 +24,12 @@ namespace DateValues // Note: actual namespace depends on the project name.
             // Console.Write("\nData + 1 dia: " + res);
 
             Console.WriteLine("\n=================================");
-             Console.WriteLine("Data + 1 y: " + data.AddYears(1) + "\n");   // adicionando 1 ano
+            Console.WriteLine("Data + 1 y: " + data.AddYears(1) + "\n");   // adicionando 1 ano
             Console.WriteLine("Data + 1 d: " + data.AddDays(1) + "\n");     // adiciona 1 dia
             Console.WriteLine("Data + 1 h: " + data.AddHours(1) + "\n");    // adiciona 1 hora
             Console.WriteLine("Data + 1 m: " + data.AddMinutes(1) + "\n");  // adiciona 1 minuto
             Console.WriteLine("Data + 1 s: " + data.AddSeconds(1));         //  adiciona 1 segundo
-            Console.WriteLine("\n=================================");
+            Console.WriteLine("=================================");
             
 
             // Exemplo de data nula (vazia)
