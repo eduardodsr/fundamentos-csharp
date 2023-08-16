@@ -87,10 +87,10 @@ M08. Editor de Textos | 100 %
 M09. Strings | 100 %
 M10. Mão na massa: Editor HTML | 100 %
 M11. Datas | 100 %
-M12. Moedas | In Progress %
-M13. Arrays | In Progress %
-M14. Exceptions | In Progress  % 
-Total Geral | 85 %
+M12. Moedas | 100 %
+M13. Arrays | 100 %
+M14. Exceptions | 100 %
+Total Geral | 100 %
 
 <span id="topicos">
   
